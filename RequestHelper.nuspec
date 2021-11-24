@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Request_Helper</id>
+    <version>3.0.0</version>
+    <title></title>
+    <authors>Mikaeel,daya</authors>
+    <owners></owners>
+    <licenseUrl>https://mikaeel.com</licenseUrl>
+    <projectUrl>https://mikaeel.com</projectUrl>
+    <iconUrl>https://mikaeel.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>help to send http request</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="" />
+    </dependencies>
+    <summary></summary>
+  </metadata>
+  <files>
+    <file src="" target="" />
+  </files>
+</package>
